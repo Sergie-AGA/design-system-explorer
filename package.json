@@ -1,0 +1,16 @@
+{
+  "name": "design-system-explorer",
+  "version": "1.0.0",
+  "description": "A project that aims to explore how to create design systems in the frontend. It is initially inspired by Rocket Seat's Andromeda design system, but was then modified to serve as the base for the explorer project series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
